@@ -1,10 +1,10 @@
 # webpack Starter
 
- Proyecto inicial con webpack.
+ Proyecto inicial con webpack para typescript.
 <br />
  ### NOTAS:
 <br />
-Sólo contiene la configuración básica para javascript y babel
+Sólo contiene la configuración básica para el uso de typescript
 
 ```
 npm install
@@ -15,7 +15,7 @@ Para construir
 npm run build
 ```
 
-Para trabajar
+Para usar en modo desarrollo
 ```
 npm run dev
 ```
